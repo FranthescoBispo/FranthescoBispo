@@ -26,7 +26,8 @@ Em busca de novos desafios. 🚀
   <img align="center" alt="after effects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="magento" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
-  <img align="center" alt="magento" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="flluter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="threejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
 </div>
 
 ##
@@ -44,6 +45,8 @@ Em busca de novos desafios. 🚀
 <img src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667">
 <img src="https://camo.githubusercontent.com/b95ad3e2b6b16cb69b4ae8f9a9d2f49d088d29d6f04264ac22e93b31be0bf45f/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d62792d646576656c6f706572732e737667">
 </div>
+
+
 <!--
 **FranthescoBispo/FranthescoBispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
